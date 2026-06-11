@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/dc2ae291-4be8-4d03-99ce-c61aa7035907
 # Automation of a Storage Warehouse
 
 An industrial automation project focused on developing the control logic from scratch for a 3-axis ($X, Y, Z$) warehouse stacker crane model. 
@@ -121,7 +119,7 @@ https://github.com/user-attachments/assets/02b8c196-1e85-4fcd-9c51-668680e7dbcf
 <img width="600" alt="PickPalletMode" src="https://github.com/user-attachments/assets/bb83a416-ec53-451f-ad61-fde8914e0150" />
 </div>
 
-
+https://github.com/user-attachments/assets/dc2ae291-4be8-4d03-99ce-c61aa7035907
 
 
 
