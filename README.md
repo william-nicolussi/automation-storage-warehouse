@@ -19,6 +19,7 @@ This project was developed for the *Automation and Control Laboratory* course at
 * **Axis Control:** 3 axes ($X, Y, Z$) driven by DC motors paired with a belt transmission system;
 * **Sensor Layout:** 12 mechanical/inductive position switches, 2 physical handkeys, 1 Hall-effect sensor for pallet detection, and 2 signaling LEDs.
 <img width="387" height="302" alt="Physical_model" src="https://github.com/user-attachments/assets/006e3300-a489-4c42-b948-6003495a94a8" />
+
 ## Getting Started
 
 ### Prerequisites
