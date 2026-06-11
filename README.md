@@ -55,11 +55,15 @@ In order to bridge this digital grid mapping with the physical world, the system
 <img width="600" alt="Software Structure" src="https://github.com/user-attachments/assets/15d9b793-0d7a-4576-8b73-c6e12280c1ce" />
 </div>
 
-## Operating Modes
-The system operates via four discrete automated and manual macro-modes orchestrating the mechanical arm.
+## Graphical User Interface
+It is possible to choose the work-mode of the warehouse system througt a GUI.
+
+### Homepage
+It is possible to choose the mode and it display errors changing the color of the background.
+https://github.com/user-attachments/assets/b75e63d5-2820-4528-bcf3-6f4b046c7512
 
 ### 1. Manual Mode
 Provides precise, granular control over each single axis. The control loop continuously reads input commands against structural constraints and hardware limit switches to prevent mechanical frame damage.
 
 ## Video
-https://github.com/user-attachments/assets/b75e63d5-2820-4528-bcf3-6f4b046c7512
+
