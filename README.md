@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b75e63d5-2820-4528-bcf3-6f4b046c7512
+
 # Automation of a Storage 
 
 An industrial automation project focused on developing the control logic from scratch for a 3-axis ($X, Y, Z$) warehouse stacker crane model. 
