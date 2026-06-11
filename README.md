@@ -88,12 +88,23 @@ https://github.com/user-attachments/assets/3e6bb3f6-17bb-4644-bd18-28aff7f19ed2
 <img width="600" alt="MovePalletMode" src="https://github.com/user-attachments/assets/8744f37d-a451-49ad-b154-ea6042d26d4c" />
 </div>
 
+
+https://github.com/user-attachments/assets/c9de9f97-2722-4277-9941-b6c9a98b3aa4
+
+
 ### Store Pallet Mode
 <div align="center">
 <img width="600" alt="StorePalletMode" src="https://github.com/user-attachments/assets/4255cfbd-a350-4697-8b3f-e96f2003667e" />
 </div>
 
+
+https://github.com/user-attachments/assets/ce698cdd-adf5-43ba-b2a7-fb0264c66e71
+
+
+
 ### Pick Pallet Mode
 <div align="center">
 <img width="600" alt="PickPalletMode" src="https://github.com/user-attachments/assets/bb83a416-ec53-451f-ad61-fde8914e0150" />
 </div>
+
+https://github.com/user-attachments/assets/fb21766b-a9f1-4683-9f0e-22a5e8cbf8f6
