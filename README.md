@@ -59,11 +59,22 @@ In order to bridge this digital grid mapping with the physical world, the system
 It is possible to choose the work-mode of the warehouse system througt a GUI.
 
 ### Homepage
-It is possible to choose the mode and it display errors changing the color of the background.
-https://github.com/user-attachments/assets/b75e63d5-2820-4528-bcf3-6f4b046c7512
+It is possible to choose the mode and it display errors changing the color of the background:
+* **Green backgroud:** the system is fully operative;
+* **Red background:** emergency button has been pressed;
+* **Pink background:** the pins connected to the I/O module have an issue.
 
-### 1. Manual Mode
-Provides precise, granular control over each single axis. The control loop continuously reads input commands against structural constraints and hardware limit switches to prevent mechanical frame damage.
 
-## Video
+https://github.com/user-attachments/assets/3e6bb3f6-17bb-4644-bd18-28aff7f19ed2
+
+
+
+https://github.com/user-attachments/assets/c8e0273f-f9bb-40e5-b921-0df8abbb1e07
+
+
+
+### Manual Mode
+It is possible to move the stacker freely. It is not possible to break the physical constraints: it is not possible to surpass the operating area and go beyond.
+
+
 
