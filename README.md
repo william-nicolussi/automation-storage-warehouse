@@ -75,6 +75,10 @@ The user can control the stacker crane freely. However, built-in safety features
 
 https://github.com/user-attachments/assets/72e6c5d1-f720-46eb-aaa9-2c5ba097ab0c
 
+
+https://github.com/user-attachments/assets/5d50508e-0486-4295-8312-51605877ab1a
+
+
 It is also possible to modify the database of the warehouse.
 
 https://github.com/user-attachments/assets/3e6bb3f6-17bb-4644-bd18-28aff7f19ed2
