@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/b75e63d5-2820-4528-bcf3-6f4b046c7512
-
 # Automation of a Storage 
 
 An industrial automation project focused on developing the control logic from scratch for a 3-axis ($X, Y, Z$) warehouse stacker crane model. 
@@ -29,3 +25,6 @@ To open and run this project, you need **ABB Automation Builder** with **CoDeSys
 git clone https://github.com/william-nicolussi/automation-storage-warehouse
 ```
 2. Open the file `Warehouse/Warehouse.project` with ABB Automation Builder.
+
+## Video
+https://github.com/user-attachments/assets/b75e63d5-2820-4528-bcf3-6f4b046c7512
