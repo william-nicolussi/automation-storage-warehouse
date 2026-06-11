@@ -55,26 +55,22 @@ In order to bridge this digital grid mapping with the physical world, the system
 <img width="600" alt="Software Structure" src="https://github.com/user-attachments/assets/15d9b793-0d7a-4576-8b73-c6e12280c1ce" />
 </div>
 
-## Graphical User Interface
-It is possible to choose the work-mode of the warehouse system througt a GUI.
+## Graphical User Interface (GUI)
+The GUI allows the user to select the warehouse system's operating mode and provides real-time status updates.
 
 ### Homepage
-It is possible to choose the mode and it display errors changing the color of the background:
-* **Green backgroud:** the system is fully operative;
-* **Red background:** emergency button has been pressed;
-* **Pink background:** the pins connected to the I/O module have an issue.
-
-
-https://github.com/user-attachments/assets/3e6bb3f6-17bb-4644-bd18-28aff7f19ed2
-
-
+The homepage enables mode selection and features a dynamic background color that changes to reflect the current system status:
+* **Green Backgroud:** The system is fully operational;
+* **Red Background:** Emergency stop activated (the emergency button has been pressed);
+* **Pink Background:** Hardware alert (an issue has been detected with the pins connected to the I/O module).
 
 https://github.com/user-attachments/assets/c8e0273f-f9bb-40e5-b921-0df8abbb1e07
 
 
-
 ### Manual Mode
-It is possible to move the stacker freely. It is not possible to break the physical constraints: it is not possible to surpass the operating area and go beyond.
+In Manual Mode, the user can control the stacker crane freely. However, built-in safety features prevent it from violating physical constraints or moving beyond its designated operating area.
+
+https://github.com/user-attachments/assets/3e6bb3f6-17bb-4644-bd18-28aff7f19ed2
 
 
 
