@@ -1,5 +1,4 @@
-
-# Automation of a Storage 
+# Automation of a Storage Warehouse
 
 An industrial automation project focused on developing the control logic from scratch for a 3-axis ($X, Y, Z$) warehouse stacker crane model. 
 
