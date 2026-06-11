@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/dc2ae291-4be8-4d03-99ce-c61aa7035907
 # Automation of a Storage Warehouse
 
 An industrial automation project focused on developing the control logic from scratch for a 3-axis ($X, Y, Z$) warehouse stacker crane model. 
@@ -83,10 +85,18 @@ It is also possible to modify the database of the warehouse.
 
 https://github.com/user-attachments/assets/3e6bb3f6-17bb-4644-bd18-28aff7f19ed2
 
+
+https://github.com/user-attachments/assets/b05f1431-fa39-463d-8a74-d33984f3f841
+
+
 ### Move Pallet Mode
 <div align="center">
 <img width="600" alt="MovePalletMode" src="https://github.com/user-attachments/assets/8744f37d-a451-49ad-b154-ea6042d26d4c" />
 </div>
+
+
+https://github.com/user-attachments/assets/4288d4b2-5867-477c-8242-ad3709790633
+
 
 
 https://github.com/user-attachments/assets/c9de9f97-2722-4277-9941-b6c9a98b3aa4
@@ -98,13 +108,25 @@ https://github.com/user-attachments/assets/c9de9f97-2722-4277-9941-b6c9a98b3aa4
 </div>
 
 
-https://github.com/user-attachments/assets/ce698cdd-adf5-43ba-b2a7-fb0264c66e71
+
+https://github.com/user-attachments/assets/dc67e754-da3d-4c1e-ac50-b0e3080c6353
 
 
+https://github.com/user-attachments/assets/26e4042b-20c1-48c4-b313-d8325f9470ba
+
+https://github.com/user-attachments/assets/02b8c196-1e85-4fcd-9c51-668680e7dbcf
 
 ### Pick Pallet Mode
 <div align="center">
 <img width="600" alt="PickPalletMode" src="https://github.com/user-attachments/assets/bb83a416-ec53-451f-ad61-fde8914e0150" />
 </div>
+
+
+
+
+
+
+https://github.com/user-attachments/assets/eab77ca1-4541-40ea-8cec-67778075b4d5
+
 
 https://github.com/user-attachments/assets/fb21766b-a9f1-4683-9f0e-22a5e8cbf8f6
