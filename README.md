@@ -1,3 +1,4 @@
+<img width="1188" height="510" alt="Screenshot 2026-06-11 143448" src="https://github.com/user-attachments/assets/2eca8837-9d10-4f42-a866-c5dcb25d7cdf" />
 # Automation of a Storage 
 
 An industrial automation project focused on developing the control logic from scratch for a 3-axis ($X, Y, Z$) warehouse stacker crane model. 
@@ -35,9 +36,10 @@ git clone https://github.com/william-nicolussi/automation-storage-warehouse
 ```
 2. Open the file `Warehouse/Warehouse.project` with ABB Automation Builder.
 
-## SOftware Architecture
+## Software Architecture
 
-
+<img width="1053" height="503" alt="Screenshot 2026-06-11 143557" src="https://github.com/user-attachments/assets/252c52b4-7242-4235-8906-2ad4c070f222" /><img width="1202" height="520" alt="Screenshot 2026-06-11 143627" src="https://github.com/user-attachments/assets/15d9b793-0d7a-4576-8b73-c6e12280c1ce" />
+ 
 ## Operating Modes
 The system operates via four discrete automated and manual macro-modes orchestrating the mechanical arm.
 
