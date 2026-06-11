@@ -2,7 +2,7 @@
 
 An industrial automation project focused on developing the control logic from scratch for a 3-axis ($X, Y, Z$) warehouse stacker crane model. 
 
-This project was developed for the *Automation and Control Laboratory* course at **Politecnico di Milano**.
+This project was developed for the *Automation and Control Laboratory* course at Politecnico di Milano.
 
 ## System Architecture
 
