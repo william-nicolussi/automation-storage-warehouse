@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/3e6bb3f6-17bb-4644-bd18-28aff7f19ed2
 
 ### Move Pallet Mode
 <div align="center">
-<img width="1714" height="1056" alt="MovePalletMode" src="https://github.com/user-attachments/assets/8744f37d-a451-49ad-b154-ea6042d26d4c" />
+<img width="600" alt="MovePalletMode" src="https://github.com/user-attachments/assets/8744f37d-a451-49ad-b154-ea6042d26d4c" />
 </div>
 
 ### Store Pallet Mode
