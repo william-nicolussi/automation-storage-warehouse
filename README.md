@@ -117,4 +117,8 @@ https://github.com/user-attachments/assets/26e4042b-20c1-48c4-b313-d8325f9470ba
 
 https://github.com/user-attachments/assets/ee757401-0b45-4f78-9ab2-147d3b038e2a
 
+## Scalability
+<div align="center">
+<img width="600" alt="Scalability" src="https://github.com/user-attachments/assets/c4edeb2c-cdc3-45ff-a6f2-3425c6db7ce2" />
+</div>
 
