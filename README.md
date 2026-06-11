@@ -18,7 +18,10 @@ This project was developed for the *Automation and Control Laboratory* course at
 * **Grid Configuration:** $3\times3$ storage slot matrix;
 * **Axis Control:** 3 axes ($X, Y, Z$) driven by DC motors paired with a belt transmission system;
 * **Sensor Layout:** 12 mechanical/inductive position switches, 2 physical handkeys, 1 Hall-effect sensor for pallet detection, and 2 signaling LEDs.
-<img width="387" height="302" alt="Physical_model" src="https://github.com/user-attachments/assets/006e3300-a489-4c42-b948-6003495a94a8" />
+
+<div align="center">
+  <img width="387" height="302" alt="Physical_model" src="https://github.com/user-attachments/assets/006e3300-a489-4c42-b948-6003495a94a8" />
+</div>
 
 ## Getting Started
 
@@ -31,6 +34,15 @@ To open and run this project, you need **ABB Automation Builder** with **CoDeSys
 git clone https://github.com/william-nicolussi/automation-storage-warehouse
 ```
 2. Open the file `Warehouse/Warehouse.project` with ABB Automation Builder.
+
+## SOftware Architecture
+
+
+## Operating Modes
+The system operates via four discrete automated and manual macro-modes orchestrating the mechanical arm.
+
+### 1. Manual Mode
+Provides precise, granular control over each single axis. The control loop continuously reads input commands against structural constraints and hardware limit switches to prevent mechanical frame damage.
 
 ## Video
 https://github.com/user-attachments/assets/b75e63d5-2820-4528-bcf3-6f4b046c7512
