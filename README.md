@@ -70,6 +70,11 @@ https://github.com/user-attachments/assets/c8e0273f-f9bb-40e5-b921-0df8abbb1e07
 ### Manual Mode
 In Manual Mode, the user can control the stacker crane freely. However, built-in safety features prevent it from violating physical constraints or moving beyond its designated operating area.
 
+
+https://github.com/user-attachments/assets/72e6c5d1-f720-46eb-aaa9-2c5ba097ab0c
+
+
+It is also possible to modify the database of the warehouse.
 https://github.com/user-attachments/assets/3e6bb3f6-17bb-4644-bd18-28aff7f19ed2
 
 
