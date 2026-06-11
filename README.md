@@ -88,6 +88,7 @@ https://github.com/user-attachments/assets/b05f1431-fa39-463d-8a74-d33984f3f841
 
 
 ### Move Pallet Mode
+The user can change the position of a pallet.
 <div align="center">
 <img width="600" alt="MovePalletMode" src="https://github.com/user-attachments/assets/8744f37d-a451-49ad-b154-ea6042d26d4c" />
 </div>
@@ -130,4 +131,13 @@ VAR_GLOBAL CONSTANT
 N_ROWS : INT := 3; 
 N_COLS : INT := 4; (* Add a new col *)
 [...] 
+```
+
+Then, the new input signal for movement sensor must be connected to the `xPosSensors` and `zPosSensors` array in physical order.
+```pascal
+FUNCTION UpdateArraySensors : BOOL
+[...]
+xPosSensors [3] := XposRight ;
+xPosSensors [4] := XposRightR ; (* Add a new col *)
+[...]
 ```
