@@ -40,19 +40,19 @@ git clone https://github.com/william-nicolussi/automation-storage-warehouse
 The general control execution and task management of the PLC program are coordinated through a multi-tier structure, organized as follows:
 
 <div align="center">
-<img width="400" alt="Software Structure" src="https://github.com/user-attachments/assets/2eca8837-9d10-4f42-a866-c5dcb25d7cdf" />
+<img width="600" alt="Software Structure" src="https://github.com/user-attachments/assets/2eca8837-9d10-4f42-a866-c5dcb25d7cdf" />
 </div>
 
 The overall program flow operates on a centralized database that tracks the warehouse layout and slot occupancy, as structured below:
 
 <div align="center">
-<img width="400" alt="Software Structure" src="https://github.com/user-attachments/assets/252c52b4-7242-4235-8906-2ad4c070f222" />
+<img width="600" alt="Software Structure" src="https://github.com/user-attachments/assets/252c52b4-7242-4235-8906-2ad4c070f222" />
 </div>
 
 In order to bridge this digital grid mapping with the physical world, the system coordinates precise 3D spatial mapping and physical sensor tracking:
 
 <div align="center">
-<img width="400" alt="Software Structure" src="https://github.com/user-attachments/assets/15d9b793-0d7a-4576-8b73-c6e12280c1ce" />
+<img width="600" alt="Software Structure" src="https://github.com/user-attachments/assets/15d9b793-0d7a-4576-8b73-c6e12280c1ce" />
 </div>
 
 ## Operating Modes
