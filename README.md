@@ -68,7 +68,8 @@ https://github.com/user-attachments/assets/c8e0273f-f9bb-40e5-b921-0df8abbb1e07
 
 
 ### Manual Mode
-In Manual Mode, the user can control the stacker crane freely. However, built-in safety features prevent it from violating physical constraints or moving beyond its designated operating area.
+The user can control the stacker crane freely. However, built-in safety features prevent it from violating physical constraints or moving beyond its designated operating area.
+<img width="1725" height="818" alt="ManualMode" src="https://github.com/user-attachments/assets/4725b4c5-1573-47bf-8105-3bb1488553e4" />
 
 https://github.com/user-attachments/assets/72e6c5d1-f720-46eb-aaa9-2c5ba097ab0c
 
@@ -76,5 +77,14 @@ It is also possible to modify the database of the warehouse.
 
 https://github.com/user-attachments/assets/3e6bb3f6-17bb-4644-bd18-28aff7f19ed2
 
+### Move Pallet Mode
+<img width="1714" height="1056" alt="MovePalletMode" src="https://github.com/user-attachments/assets/8744f37d-a451-49ad-b154-ea6042d26d4c" />
 
+
+### Store Pallet Mode
+<img width="1735" height="876" alt="StorePalletMode" src="https://github.com/user-attachments/assets/4255cfbd-a350-4697-8b3f-e96f2003667e" />
+
+
+### Pick Pallet Mode
+<img width="1714" height="864" alt="PickPalletMode" src="https://github.com/user-attachments/assets/bb83a416-ec53-451f-ad61-fde8914e0150" />
 
