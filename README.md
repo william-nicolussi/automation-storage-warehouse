@@ -108,9 +108,8 @@ https://github.com/user-attachments/assets/c9de9f97-2722-4277-9941-b6c9a98b3aa4
 
 
 https://github.com/user-attachments/assets/dc67e754-da3d-4c1e-ac50-b0e3080c6353
+https://github.com/user-attachments/assets/dc2ae291-4be8-4d03-99ce-c61aa7035907
 
-
-https://github.com/user-attachments/assets/26e4042b-20c1-48c4-b313-d8325f9470ba
 
 https://github.com/user-attachments/assets/02b8c196-1e85-4fcd-9c51-668680e7dbcf
 
@@ -119,8 +118,7 @@ https://github.com/user-attachments/assets/02b8c196-1e85-4fcd-9c51-668680e7dbcf
 <img width="600" alt="PickPalletMode" src="https://github.com/user-attachments/assets/bb83a416-ec53-451f-ad61-fde8914e0150" />
 </div>
 
-https://github.com/user-attachments/assets/dc2ae291-4be8-4d03-99ce-c61aa7035907
-
+https://github.com/user-attachments/assets/26e4042b-20c1-48c4-b313-d8325f9470ba
 
 
 
