@@ -92,10 +92,7 @@ https://github.com/user-attachments/assets/b05f1431-fa39-463d-8a74-d33984f3f841
 <img width="600" alt="MovePalletMode" src="https://github.com/user-attachments/assets/8744f37d-a451-49ad-b154-ea6042d26d4c" />
 </div>
 
-
 https://github.com/user-attachments/assets/4288d4b2-5867-477c-8242-ad3709790633
-
-
 
 https://github.com/user-attachments/assets/c9de9f97-2722-4277-9941-b6c9a98b3aa4
 
@@ -107,7 +104,7 @@ https://github.com/user-attachments/assets/c9de9f97-2722-4277-9941-b6c9a98b3aa4
 
 https://github.com/user-attachments/assets/dc67e754-da3d-4c1e-ac50-b0e3080c6353
 
-https://github.com/user-attachments/assets/dc2ae291-4be8-4d03-99ce-c61aa7035907
+https://github.com/user-attachments/assets/fb21766b-a9f1-4683-9f0e-22a5e8cbf8f6
 
 https://github.com/user-attachments/assets/02b8c196-1e85-4fcd-9c51-668680e7dbcf
 
@@ -117,8 +114,6 @@ https://github.com/user-attachments/assets/02b8c196-1e85-4fcd-9c51-668680e7dbcf
 </div>
 
 https://github.com/user-attachments/assets/26e4042b-20c1-48c4-b313-d8325f9470ba
-
-https://github.com/user-attachments/assets/fb21766b-a9f1-4683-9f0e-22a5e8cbf8f6
 
 https://github.com/user-attachments/assets/ee757401-0b45-4f78-9ab2-147d3b038e2a
 
