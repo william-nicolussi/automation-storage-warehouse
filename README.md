@@ -43,13 +43,13 @@ The general control execution and task management of the PLC program are coordin
 <img width="600" alt="Software Structure" src="https://github.com/user-attachments/assets/2eca8837-9d10-4f42-a866-c5dcb25d7cdf" />
 </div>
 
-The overall program flow operates on a centralized database that tracks the warehouse layout and slot occupancy, as structured below:
+This centralized execution logic interfaces directly with an internal database that tracks the real-time occupancy and layout of the warehouse grid:
 
 <div align="center">
 <img width="600" alt="Software Structure" src="https://github.com/user-attachments/assets/252c52b4-7242-4235-8906-2ad4c070f222" />
 </div>
 
-In order to bridge this digital grid mapping with the physical world, the system coordinates precise 3D spatial mapping and physical sensor tracking:
+To bridge digital grid tracking with physical execution, the system continuously translates row/column indices into spatial coordinates using the 12 position sensors:
 
 <div align="center">
 <img width="600" alt="Software Structure" src="https://github.com/user-attachments/assets/15d9b793-0d7a-4576-8b73-c6e12280c1ce" />
@@ -83,6 +83,7 @@ It is also possible to modify the database of the warehouse.
 
 https://github.com/user-attachments/assets/3e6bb3f6-17bb-4644-bd18-28aff7f19ed2
 
+The system can handle logical errors of the user (such as adding in an occupied position).
 
 https://github.com/user-attachments/assets/b05f1431-fa39-463d-8a74-d33984f3f841
 
@@ -93,12 +94,15 @@ The user can change the position of a pallet.
 <img width="600" alt="MovePalletMode" src="https://github.com/user-attachments/assets/8744f37d-a451-49ad-b154-ea6042d26d4c" />
 </div>
 
+It is possible to move a pallet from one position to an empty slot. The system is able to handle user errors (such as impossible slot position).
+
 https://github.com/user-attachments/assets/4288d4b2-5867-477c-8242-ad3709790633
 
 https://github.com/user-attachments/assets/c9de9f97-2722-4277-9941-b6c9a98b3aa4
 
 
 ### Store Pallet Mode
+The user can give an ID to a pallet and store it. The first position to be filled is the `posHome`. The next pallets are stored near the `posHome` according to the Manhattan Distance. Il is possible to modify the `posHome` in the `VAR_GLOBAL CONSTANT`.
 <div align="center">
 <img width="600" alt="StorePalletMode" src="https://github.com/user-attachments/assets/4255cfbd-a350-4697-8b3f-e96f2003667e" />
 </div>
@@ -107,9 +111,12 @@ https://github.com/user-attachments/assets/dc67e754-da3d-4c1e-ac50-b0e3080c6353
 
 https://github.com/user-attachments/assets/fb21766b-a9f1-4683-9f0e-22a5e8cbf8f6
 
+If the warehouse is full, the system does not allow other inserts.
+
 https://github.com/user-attachments/assets/02b8c196-1e85-4fcd-9c51-668680e7dbcf
 
 ### Pick Pallet Mode
+The user gives the system the ID of the pallet and the corresponding pallet is delivered.
 <div align="center">
 <img width="600" alt="PickPalletMode" src="https://github.com/user-attachments/assets/bb83a416-ec53-451f-ad61-fde8914e0150" />
 </div>
